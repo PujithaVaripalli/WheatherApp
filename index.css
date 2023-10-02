@@ -148,6 +148,7 @@ body{
     height:100px;
     background-color: #C3C7F3;
     margin-top:30%;
+    display: none;
 }
 #footer_heading{
     font-size: 15px;
