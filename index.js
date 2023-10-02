@@ -56,6 +56,7 @@ async function CheckWeather(city){
    }
    document.querySelector('.weather').style.display='block';
    document.querySelector(".error").style.display="none";
+   document.getElementById('footer').style.margin="0%";
 
    }
 
